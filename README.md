@@ -1,2 +1,2 @@
 # EstruturaDeDadosJava
-Dados da matéria TPA(Técnicas de Programação Avançada).
+Conhecimentos adquiridos na matéria TPA(Técnicas de Programação Avançada) no IFES Santa Teresa.
